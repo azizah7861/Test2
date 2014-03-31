@@ -19,6 +19,8 @@ namespace ConsoleApplicationGitPrac
             /// New Local change 2
             /// 
             /// Feature 1.1 branch
+            /// 
+            /// Feature 1.2
         }
     }
 }
